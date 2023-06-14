@@ -10,7 +10,7 @@ namespace Baalhyttebooking
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Beelhyttebooking;");
+            Console.WriteLine("Baalhyttebooking;");
             Console.WriteLine();
             Console.WriteLine("Opgave 1.Opret Klassen Boernegruppen");
             Console.WriteLine();
